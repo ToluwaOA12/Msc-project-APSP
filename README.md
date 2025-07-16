@@ -51,3 +51,10 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Install required packages
 pip install -r requirements.txt
+---
+
+Citation
+
+If you use this work, please cite the accompanying dissertation:
+
+> **Toluwa O. A.** (2025). *Solving and Visualizing the All-Pairs Shortest Paths (APSP) Problem*. MSc Dissertation, Big Data and Business Intelligence, University of Greenwich.
